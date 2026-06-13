@@ -30,3 +30,4 @@ O **Agrinho Valley** é um jogo de estratégia, gerenciamento agrícola e tem fi
 * **JavaScript (ES6)**
 * **p5.js** (Renderização gráfica, interações de mouse/teclado e áudio nativo via sintetizador ADSR)
 * **HTML5 & CSS3**
+* **GEMINI**
